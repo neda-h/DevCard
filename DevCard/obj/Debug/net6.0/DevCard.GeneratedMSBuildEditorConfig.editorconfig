@@ -16,12 +16,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = F:\Learnings\Neda\Projects\ASP.Net\DevCard\DevCard
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/Learnings/Neda/Projects/ASP.Net/DevCard/DevCard/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[F:/Learnings/Neda/Projects/ASP.Net/DevCard/DevCard/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Learnings/Neda/Projects/ASP.Net/DevCard/DevCard/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[F:/Learnings/Neda/Projects/ASP.Net/DevCard/DevCard/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/Learnings/Neda/Projects/ASP.Net/DevCard/DevCard/Views/Shared/Error.cshtml]
